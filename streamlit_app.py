@@ -11,3 +11,4 @@ streamlit.text('Hard-Boiled Free-Range Egg')
  
 
 
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
